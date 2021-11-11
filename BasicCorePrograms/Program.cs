@@ -36,6 +36,8 @@ namespace BasicCorePrograms
                         result.Division();
                         break;
                     case 7:
+                        Swapping ans = new Swapping();
+                        ans.Swap();
                         break;
                     case 8:
                         EvenOrOdd num = new EvenOrOdd();
