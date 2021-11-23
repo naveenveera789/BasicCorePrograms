@@ -30,6 +30,8 @@ namespace BasicCorePrograms
                         sum.Harmonic();
                         break;
                     case 5:
+                        Factors factor = new Factors();
+                        factor.PrimeFact();
                         break;
                     case 6:
                         QuotientRemainder result = new QuotientRemainder();
